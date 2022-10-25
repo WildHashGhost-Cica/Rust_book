@@ -1,6 +1,8 @@
 fn main(){
     let mut s = String::from("hello wildhashghost");
     let word = first_word(&s);
+    
+    s.clear();
 
 }
 
